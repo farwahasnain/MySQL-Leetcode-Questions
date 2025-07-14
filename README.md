@@ -1,5 +1,4 @@
 # MySQL Practice Problems
-Solving Leetcode SQL Questions.
 
 This repository contains solutions to common SQL problems. These questions are available on Leetcode website. Below is the list of problems I'm solving:
 
