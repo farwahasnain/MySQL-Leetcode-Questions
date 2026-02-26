@@ -1,22 +1,35 @@
-# 🕹️ LeetCode SQL Quest
+# SQL Practice Questions Index
 
-> Welcome, challenger! Step into the arena of tables, joins, and window functions.  
-> Your mission: conquer SQL problems, level up your skills, and unlock the secrets of data!  
+This repository contains solutions to various SQL practice questions categorized by topic.
 
-![Progress](https://img.shields.io/badge/Levels%20Completed-12%2F50-brightgreen)
-![Badge](https://img.shields.io/badge/Difficulty-Easy%20⚪%20Medium%20🟡%20Hard%20🔴-lightgrey)
+## 1️⃣ Filtering, Conditions & Patterns
+- [595 – Big Countries](Big-Countries.sql)  
+- [620 – Not Boring Movies](Not-Boring-Movies.sql)  
+- [610 – Triangle Judgement](triangle.sql)  
+- [619 – Biggest Single Number](Biggest-Single-Number.sql)  
+- [180 – Consecutive Numbers](Consecutive-Numbers.sql)  
+- [197 – Rising Temperature](Rising-temperature.sql)  
 
----
+## 2️⃣ Joins & Relationships
+- [175 – Combine Two Tables](./175_Combine_Two_Tables.sql)  
+- [183 – Customers Who Never Order](./183_Customers_Who_Never_Order.sql)  
+- [584 – Find Customer Referee](./584_Find_Customer_Referee.sql)  
+- [181 – Employees Earning More Than Managers](./181_Employees_Earning_More_Than_Managers.sql)  
+- [596 – Classes More Than 5 Students](./596_Classes_More_Than_5_Students.sql)  
 
-## 🎮 **Level Map**
+## 3️⃣ Aggregations & Ranking
+- [176 – Second Highest Salary](./176_Second_Highest_Salary.sql)  
+- [182 – Duplicate Emails](./182_Duplicate_Emails.sql)  
+- [177 – Nth Highest Salary](./177_Nth_Highest_Salary.sql)  
+- [178 – Rank Scores](./178_Rank_Scores.sql)  
+- [569 – Median Employee Salary](./569_Median_Employee_Salary.sql)  
 
-| 🏆 Level | 🎯 Quest | ⭐ Difficulty | 🧩 Concepts | ✅ Status | 🎓 XP |
-|:--:|:--|:--:|:--|:--:|--:|
-| 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | ⚪ Easy | LEFT JOIN | ✅ | +10 XP |
-| 2 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | ⚪ Easy | Subquery | ✅ | +10 XP |
-| 3 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🟡 Medium | LIMIT, OFFSET | ✅ | +20 XP |
-| 4 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ⚪ Easy | Self JOIN | ✅ | +10 XP |
-| 5 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🟡 Medium | DENSE_RANK, Window | ✅ | +20 XP |
-| ... | ... | ... | ... | ... | ... |
+## 4️⃣ Data Quality & De-duplication
+- [196 – Delete Duplicate Emails](./196_Delete_Duplicate_Emails.sql)  
+- [577 – Employee Bonus](./577_Employee_Bonus.sql)  
+
+## 5️⃣ Business-Style Analytics
+- [1068 – Product Sales Analysis I](./1068_Product_Sales_Analysis_I.sql)  
+- [1070 – Product Sales Analysis III](./1070_Product_Sales_Analysis_III.sql)  
 
 > 🧩 *Concepts:* JOIN, GROUP BY, Subqueries, Window functions, Aggregations
