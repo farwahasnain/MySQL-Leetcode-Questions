@@ -5,7 +5,7 @@ This repository contains solutions to various SQL practice questions categorized
 ### 1️⃣ Filtering, Conditions & Patterns
 - [595 – Big Countries](Big-Countries.sql)  
 - [620 – Not Boring Movies](Not-Boring-Movies.sql)  
-- [610 – Triangle Judgement](triangle.sql)  
+- [610 – Triangle Judgement](Triangle.sql)  
 - [619 – Biggest Single Number](Biggest-Single-Number.sql)  
 - [180 – Consecutive Numbers](Consecutive-Numbers.sql)  
 - [197 – Rising Temperature](Rising-temperature.sql)  
