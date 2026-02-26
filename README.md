@@ -11,14 +11,15 @@ This repository contains solutions to various SQL practice questions categorized
 - [197 – Rising Temperature](Rising-temperature.sql)  
 
 ### 2️⃣ Joins & Relationships
-- [175 – Combine Two Tables](./175_Combine_Two_Tables.sql)  
+- [175 – Combine Two Tables](Combine-Two-Tables.sql)  
 - [183 – Customers Who Never Order](./183_Customers_Who_Never_Order.sql)  
 - [584 – Find Customer Referee](./584_Find_Customer_Referee.sql)  
 - [181 – Employees Earning More Than Managers](./181_Employees_Earning_More_Than_Managers.sql)  
-- [596 – Classes More Than 5 Students](./596_Classes_More_Than_5_Students.sql)  
+- [596 – Classes More Than 5 Students](./596_Classes_More_Than_5_Students.sql)
+- [1126 – Active Businesses](Active-Businesses.sql)  
 
 ### 3️⃣ Aggregations & Ranking
-- [176 – Second Highest Salary](./176_Second_Highest_Salary.sql)  
+- [176 – Second Highest Salary](Second-Highest-Salary.sql)  
 - [182 – Duplicate Emails](./182_Duplicate_Emails.sql)  
 - [177 – Nth Highest Salary](./177_Nth_Highest_Salary.sql)  
 - [178 – Rank Scores](./178_Rank_Scores.sql)  
