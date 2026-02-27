@@ -1,6 +1,6 @@
 # SQL Practice Questions Index
 
-This repository contains solutions to various SQL practice questions categorized by topic.
+This repository contains solutions to various SQL practice questions from the Leetcode website categorized by topic.
 
 ### 1️⃣ Filtering, Conditions & Patterns
 - [595 – Big Countries](Big-Countries.sql)  
@@ -14,7 +14,7 @@ This repository contains solutions to various SQL practice questions categorized
 - [175 – Combine Two Tables](Combine-Two-Tables.sql)  
 - [183 – Customers Who Never Order](Customers-Who-Never-Order.sql)  
 - [584 – Find Customer Referee](./584_Find_Customer_Referee.sql)  
-- [181 – Employees Earning More Than Managers](./181_Employees_Earning_More_Than_Managers.sql)  
+- [181 – Employees Earning More Than Managers](Employees-Earning-More.sql)  
 - [596 – Classes More Than 5 Students](./596_Classes_More_Than_5_Students.sql)
 - [1126 – Active Businesses](Active-Businesses.sql)  
 
