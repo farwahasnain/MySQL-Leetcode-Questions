@@ -13,7 +13,6 @@ This repository contains solutions to various SQL practice questions from the Le
 ### 2️⃣ Joins & Relationships
 - [175 – Combine Two Tables](Combine-Two-Tables.sql)  
 - [183 – Customers Who Never Order](Customers-Who-Never-Order.sql)  
-- [584 – Find Customer Referee](./584_Find_Customer_Referee.sql)  
 - [181 – Employees Earning More Than Managers](Employees-Earning-More.sql)  
 - [596 – Classes More Than 5 Students](./596_Classes_More_Than_5_Students.sql)
 - [1126 – Active Businesses](Active-Businesses.sql)  
@@ -30,6 +29,7 @@ This repository contains solutions to various SQL practice questions from the Le
 - [577 – Employee Bonus](./577_Employee_Bonus.sql)  
 
 ### 5️⃣ Business-Style Analytics
+- [1158 – Market Analysis I](Market-Analysis1.sql)  
 - [1068 – Product Sales Analysis I](./1068_Product_Sales_Analysis_I.sql)  
 - [1070 – Product Sales Analysis III](./1070_Product_Sales_Analysis_III.sql)
 
