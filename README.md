@@ -31,7 +31,7 @@ This repository contains solutions to various SQL practice questions from the Le
 ### 5️⃣ Business-Style Analytics
 - [1158 – Market Analysis I](Market-Analysis1.sql)  
 - [1068 – Product Sales Analysis I](Product-Sales-Analysis1.sql)  
-- [1070 – Product Sales Analysis III](./1070_Product_Sales_Analysis_III.sql)
+- [1070 – Product Sales Analysis III](Product-Sales-Analysis3.sql)
 
 
 > 🧩 *Concepts:* JOIN, GROUP BY, Subqueries, Window functions, Aggregations
