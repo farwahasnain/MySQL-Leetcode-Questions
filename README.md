@@ -30,7 +30,7 @@ This repository contains solutions to various SQL practice questions from the Le
 
 ### 5️⃣ Business-Style Analytics
 - [1158 – Market Analysis I](Market-Analysis1.sql)  
-- [1068 – Product Sales Analysis I](./1068_Product_Sales_Analysis_I.sql)  
+- [1068 – Product Sales Analysis I](Product-Sales-Analysis1.sql)  
 - [1070 – Product Sales Analysis III](./1070_Product_Sales_Analysis_III.sql)
 
 
