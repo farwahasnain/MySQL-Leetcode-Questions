@@ -19,7 +19,7 @@ This repository contains solutions to various SQL practice questions from the Le
 
 ### 3️⃣ Aggregations & Ranking
 - [176 – Second Highest Salary](Second-Highest-Salary.sql)  
-- [182 – Duplicate Emails](./182_Duplicate_Emails.sql)  
+- [182 – Duplicate Emails](Duplicate-Emails.sql)  
 - [177 – Nth Highest Salary](./177_Nth_Highest_Salary.sql)  
 - [178 – Rank Scores](./178_Rank_Scores.sql)  
 - [569 – Median Employee Salary](./569_Median_Employee_Salary.sql)  
