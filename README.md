@@ -25,7 +25,7 @@ This repository contains solutions to various SQL practice questions from the Le
 - [569 – Median Employee Salary](./569_Median_Employee_Salary.sql)  
 
 ### 4️⃣ Data Quality & De-duplication
-- [196 – Delete Duplicate Emails](./196_Delete_Duplicate_Emails.sql)  
+- [196 – Delete Duplicate Emails](Delete-Duplicate_Emails.sql)  
 - [577 – Employee Bonus](Employee-Bonus.sql)  
 
 ### 5️⃣ Business-Style Analytics
