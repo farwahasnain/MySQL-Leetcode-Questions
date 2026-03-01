@@ -26,7 +26,7 @@ This repository contains solutions to various SQL practice questions from the Le
 
 ### 4️⃣ Data Quality & De-duplication
 - [196 – Delete Duplicate Emails](./196_Delete_Duplicate_Emails.sql)  
-- [577 – Employee Bonus](./577_Employee_Bonus.sql)  
+- [577 – Employee Bonus](Employee-Bonus.sql)  
 
 ### 5️⃣ Business-Style Analytics
 - [1158 – Market Analysis I](Market-Analysis1.sql)  
