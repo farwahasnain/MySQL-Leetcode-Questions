@@ -32,6 +32,7 @@ This repository contains solutions to various SQL practice questions from the Le
 - [1158 – Market Analysis I](Market-Analysis1.sql)  
 - [1068 – Product Sales Analysis I](Product-Sales-Analysis1.sql)  
 - [1070 – Product Sales Analysis III](Product-Sales-Analysis3.sql)
+- [1174 – Immediate Food Delivery II](Immediate-Food-Delivery2.sql)
 
 
 > 🧩 *Concepts:* JOIN, GROUP BY, Subqueries, Window functions, Aggregations
