@@ -21,7 +21,7 @@ This repository contains solutions to various SQL practice questions from the Le
 - [176 – Second Highest Salary](Second-Highest-Salary.sql)  
 - [182 – Duplicate Emails](Duplicate-Emails.sql)  
 - [177 – Nth Highest Salary](./177_Nth_Highest_Salary.sql)  
-- [178 – Rank Scores](./178_Rank_Scores.sql)  
+- [178 – Rank Scores](Rank-Scores.sql)  
 - [569 – Median Employee Salary](Median-Employee-Salary.sql)  
 
 ### 4️⃣ Data Quality & De-duplication
