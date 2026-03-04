@@ -20,7 +20,6 @@ This repository contains solutions to various SQL practice questions from the Le
 ### 3️⃣ Aggregations & Ranking
 - [176 – Second Highest Salary](Second-Highest-Salary.sql)  
 - [182 – Duplicate Emails](Duplicate-Emails.sql)  
-- [177 – Nth Highest Salary](./177_Nth_Highest_Salary.sql)  
 - [178 – Rank Scores](Rank-Scores.sql)  
 - [569 – Median Employee Salary](Median-Employee-Salary.sql)  
 
@@ -28,7 +27,13 @@ This repository contains solutions to various SQL practice questions from the Le
 - [196 – Delete Duplicate Emails](Delete-Duplicate_Emails.sql)  
 - [577 – Employee Bonus](Employee-Bonus.sql)  
 
-### 5️⃣ Business-Style Analytics
+### 5️⃣ **CTEs and Window Functions**
+- [1321 – Restaurant Growth](In progress)  
+- [1341 – Movie Rating](Movie-Rating.sql)
+- [1204 – Last Person to Fit in the Bus - In Progress](In progress)
+- [512 - Game Play Analysis II](In progress)  
+
+### 6️⃣ Business-Style Analytics
 - [1158 – Market Analysis I](Market-Analysis1.sql)  
 - [1068 – Product Sales Analysis I](Product-Sales-Analysis1.sql)  
 - [1070 – Product Sales Analysis III](Product-Sales-Analysis3.sql)
