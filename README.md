@@ -28,10 +28,10 @@ This repository contains solutions to various SQL practice questions from the Le
 - [577 – Employee Bonus](Employee-Bonus.sql)  
 
 ### 5️⃣ **CTEs and Window Functions**
-- [1321 – Restaurant Growth](In progress)  
+- 1321 – Restaurant Growth - In progress  
 - [1341 – Movie Rating](Movie-Rating.sql)
-- [1204 – Last Person to Fit in the Bus - In Progress](In progress)
-- [512 - Game Play Analysis II](In progress)  
+- 1204 – Last Person to Fit in the Bus - In Progress
+- 512 - Game Play Analysis II - In progress  
 
 ### 6️⃣ Business-Style Analytics
 - [1158 – Market Analysis I](Market-Analysis1.sql)  
