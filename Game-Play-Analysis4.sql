@@ -58,7 +58,7 @@ WITH CTE_next_event AS (
 	FROM Activity
 )
 
-SELECT ROUND((player_id/(SELECT COUNT(DISTINCT player_id)
+SELECT ROUND((COUNT(player_id)/(SELECT COUNT(DISTINCT player_id)
     FROM CTE_next_event)), 2) AS fraction
 FROM CTE_next_event
 WHERE next_event IS NOT NULL;
