@@ -31,6 +31,7 @@ This repository contains solutions to various SQL practice questions from the Le
 - [1321 – Restaurant Growth](Restaurant-Growth.sql)
 - [1341 – Movie Rating](Movie-Rating.sql)
 - [1251 - Average Selling Price](Average-Selling-Price.sql)
+- [550 - Game Play Analysis IV](Game-Play-Analysis4.sql)
 - 1204 – Last Person to Fit in the Bus - In Progress
 - 512 - Game Play Analysis II - In progress  
 
