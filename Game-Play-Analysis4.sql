@@ -52,13 +52,15 @@ INSERT INTO Activity (player_id, device_id, event_date, games_played) values ('3
 
 -- Solution:
 
-WITH CTE_next_event AS (
-	SELECT *,
-	LEAD(event_date) OVER(PARTITION BY event_date ORDER BY event_date) AS next_event
-	FROM Activity
+WITH CTE AS (
+    SELECT *,
+           MIN(event_date) OVER(PARTITION BY player_id) AS first_login,
+           LEAD(event_date) OVER(PARTITION BY player_id ORDER BY event_date) AS next_event
+    FROM Activity
 )
-
-SELECT ROUND((COUNT(player_id)/(SELECT COUNT(DISTINCT player_id)
-    FROM CTE_next_event)), 2) AS fraction
-FROM CTE_next_event
-WHERE next_event IS NOT NULL;
+SELECT ROUND(
+    COUNT(CASE WHEN next_event = DATE_ADD(first_login, INTERVAL 1 DAY) THEN 1 END)
+    / COUNT(DISTINCT player_id), 2
+) AS fraction
+FROM CTE
+WHERE event_date = first_login;
