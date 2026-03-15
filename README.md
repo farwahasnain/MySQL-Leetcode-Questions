@@ -8,7 +8,8 @@ This repository contains solutions to various SQL practice questions from the Le
 - [610 – Triangle Judgement](Triangle.sql)  
 - [619 – Biggest Single Number](Biggest-Single-Number.sql)  
 - [180 – Consecutive Numbers](Consecutive-Numbers.sql)  
-- [197 – Rising Temperature](Rising-temperature.sql)  
+- [197 – Rising Temperature](Rising-temperature.sql)
+- [511 – Game Play Analysis I](Game-Play-Analysis1.sql)  
 
 ### 2️⃣ Joins & Relationships
 - [175 – Combine Two Tables](Combine-Two-Tables.sql)  
