@@ -33,8 +33,6 @@ This repository contains solutions to various SQL practice questions from the Le
 - [1341 – Movie Rating](Movie-Rating.sql)
 - [1251 - Average Selling Price](Average-Selling-Price.sql)
 - [550 - Game Play Analysis IV](Game-Play-Analysis4.sql)
-- 1204 – Last Person to Fit in the Bus - In Progress
-- 512 - Game Play Analysis II - In progress  
 
 ### 6️⃣ Business-Style Analytics
 - [1158 – Market Analysis I](Market-Analysis1.sql)  
